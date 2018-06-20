@@ -1,4 +1,5 @@
-import numpy as np 
+#!/usr/bin/python
+# # -*- coding: utf-8 -*-import numpy as np 
 from pdb import set_trace
 import math
 
